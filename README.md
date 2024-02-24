@@ -1,11 +1,10 @@
-### Hi there 👋
+<h1 align="center">Woosung 👋</h1>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=stardino99)](https://solved.ac/stardino99)
-<--**ws19999/ws19999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... Python C++
+- 🔭 I’m currently working on ... **Python** and **C++**
+- 🌱 I’m currently learning ... **Python** and **C++**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

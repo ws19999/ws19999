@@ -1,5 +1,5 @@
 <h1 align="center">Woosung 👋</h1>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=stardino99)](https://solved.ac/stardino99)
+<h1 align="center">[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=stardino99)](https://solved.ac/stardino99)</h1>
 
 Here are some ideas to get you started:
 

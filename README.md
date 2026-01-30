@@ -53,9 +53,6 @@
 </p>
 
 ---
-### 📊 My Language Stats
-
-![Duolingo Languages](https://duolingo-stats-api.vercel.app/api?username=stardino99&show_languages=true)
 
 ### 📫 How to reach me
 - 📧 Email: `stardino99@gmail.com`

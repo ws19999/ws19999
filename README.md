@@ -1,4 +1,3 @@
-
 ### 📊 Solved.ac Rank
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=stardino99)](https://solved.ac/stardino99)
 
@@ -54,6 +53,9 @@
 </p>
 
 ---
+### My Language Stats
+
+[![Duolingo Stats](https://duolingo-stats-api.vercel.app/api?username=stardino99)](https://www.duolingo.com/profile/stardino99)
 
 ### 📫 How to reach me
 - 📧 Email: `stardino99@gmail.com`

@@ -45,8 +45,12 @@
 
 ---
 
-### 📊 My GitHub Stats
+### 🌍 Language Learning (Duolingo)
+[![Duolingo Stats](https://github-readme-duolingo.vercel.app/api?username=stardino99&theme=radical)](https://www.duolingo.com/profile/stardino99)
 
+---
+
+### 📊 My GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ws19999&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ws19999&layout=compact&theme=radical" />
@@ -56,4 +60,3 @@
 
 ### 📫 How to reach me
 - 📧 Email: `stardino99@gmail.com`
-
